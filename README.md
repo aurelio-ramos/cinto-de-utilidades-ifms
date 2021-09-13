@@ -17,7 +17,7 @@ Projeto criado versionar scripts e códigos que podem ser utilizados para automa
 
 - [ ] Sistema academico
   - [X] adicionar observação no conteúdo do Diário de classe
-  - [ ]
+  - [X] somar número total de aulas do 'DETALHAMENTO DA PROPOSTA DE TRABALHO' no plano de ensino
   
 
 - [ ] Suap
