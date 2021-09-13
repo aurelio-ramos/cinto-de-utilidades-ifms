@@ -1,5 +1,5 @@
 # Cinto de utilidades para os sistemas do IFMS
-###  Repositório para scripts e idéias não necessariamente bem documentadas, códificas ou definidas
+###  Repositório para scripts e idéias não necessariamente bem documentadas, codificas e definidas...
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> • 
