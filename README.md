@@ -15,7 +15,7 @@ Projeto criado versionar scripts e códigos que podem ser utilizados para automa
 
 ## ⚙️ Funcionalidades
 
-- [ ] Sistema academico
+- [X] Sistema academico
   - [X] adicionar observação no conteúdo do Diário de classe
   - [X] somar número total de aulas do 'DETALHAMENTO DA PROPOSTA DE TRABALHO' no plano de ensino
   
