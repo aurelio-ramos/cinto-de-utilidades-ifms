@@ -21,7 +21,7 @@ Projeto criado versionar scripts e códigos que podem ser utilizados para automa
   
 
 - [ ] Suap
-  - [ ] 
+  - [ ] adicionar observação na folha de frequência
   - [ ] 
 
 ---
