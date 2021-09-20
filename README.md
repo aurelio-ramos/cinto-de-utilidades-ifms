@@ -20,8 +20,8 @@ Projeto criado versionar scripts e códigos que podem ser utilizados para automa
   - [X] somar número total de aulas do 'DETALHAMENTO DA PROPOSTA DE TRABALHO' no plano de ensino
   
 
-- [ ] Suap
-  - [ ] adicionar observação na folha de frequência
+- [X] Suap
+  - [X] adicionar observação na folha de frequência
   - [ ] 
 
 ---
