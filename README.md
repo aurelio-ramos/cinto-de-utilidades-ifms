@@ -8,7 +8,7 @@
 
 ## 💻 Sobre o projeto
 
-Projeto criado versionar scripts e códigos que podem ser utilizados para automatizar tarefas docentes do IFMS, alguns dos códigos podem não estar completos.
+Projeto criado para versionar scripts e códigos utilizados para automatizar tarefas docentes do IFMS, alguns dos códigos podem não estar completos.
 
 
 ---
@@ -18,6 +18,7 @@ Projeto criado versionar scripts e códigos que podem ser utilizados para automa
 - [X] Sistema academico
   - [X] adicionar observação no conteúdo do Diário de classe
   - [X] somar número total de aulas do 'DETALHAMENTO DA PROPOSTA DE TRABALHO' no plano de ensino
+  - [ ] adicionar 'Conteúdo a ser desenvolvido' em DETALHAMENTO DA PROPOSTA DE TRABALHO
   
 
 - [X] Suap
