@@ -3,7 +3,7 @@
  * função que adiciona observação no conteúdo do Diário de Classe
  * @param {*} observacao 
  */
-function setObservacaoDiario(editarApenasVazias = true, observacao = `Aula ministrada utilizando meios e tecnologias de informação e comunicação), conforme Instrução Normativa 02_2020 Proen.`){
+ (setObservacaoDiario = function (editarApenasVazias = true, observacao = `Aula ministrada utilizando meios e tecnologias de informação e comunicação), conforme Instrução Normativa 02_2020 Proen.`){
     
     //seleciona todos  os td que inicial com 'obs_' https://stackoverflow.com/questions/13533484/css-select-elements-with-partial-id
     let colunaObservacoes = document.querySelectorAll('td[id^="obs_"]')
@@ -37,14 +37,14 @@ function setObservacaoDiario(editarApenasVazias = true, observacao = `Aula minis
             a.click(); 
         }   
     });
-}
+})();
 
 /**
  * função que soma o total de aulas 
  * DETALHAMENTO DA PROPOSTA DE TRABALHO no plano de ensino
  * @returns numeroTotalAulas
  */
-function somarNumeroDeAulas(){    
+(somarNumeroDeAulas = function (){    
     const numeroAulasPeriodo = document.querySelectorAll("#proposta_trabalho>tbody>tr>td:nth-child(3)");
     let totalAulas = 0;
     for(let aulas of numeroAulasPeriodo){        
@@ -59,4 +59,4 @@ function somarNumeroDeAulas(){
     
     document.querySelector('#proposta_trabalho').append(tfoot);    
     return totalAulas;
-}
+})();
