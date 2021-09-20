@@ -8,7 +8,7 @@
 
 ## 💻 Sobre o projeto
 
-Projeto criado para versionar scripts e códigos utilizados para automatizar tarefas docentes do IFMS, alguns dos códigos podem não estar completos.
+Projeto criado para versionar scripts e códigos utilizados para automatizar tarefas docentes do IFMS, alguns códigos podem não estar completos.
 
 
 ---
@@ -23,7 +23,7 @@ Projeto criado para versionar scripts e códigos utilizados para automatizar tar
 
 - [X] Suap
   - [X] adicionar observação na folha de frequência
-  - [ ] 
+  - [ ] automatizar geração do Relatório de Atividades Desenvolvidas (RAD)
 
 ---
 
