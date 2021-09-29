@@ -3,7 +3,7 @@
  * função que adiciona observação no conteúdo do Diário de Classe
  * @param {*} observacao 
  */
- (setObservacaoDiario = function (editarApenasVazias = true, observacao = `Aula ministrada utilizando meios e tecnologias de informação e comunicação), conforme Instrução Normativa 02_2020 Proen.`){
+ (setObservacaoDiario = function (editarApenasVazias = true, observacao = `Aula ministrada utilizando meios e tecnologias de informação e comunicação, conforme Instrução Normativa 02_2020 Proen.`){
     
     //seleciona todos  os td que inicial com 'obs_' https://stackoverflow.com/questions/13533484/css-select-elements-with-partial-id
     let colunaObservacoes = document.querySelectorAll('td[id^="obs_"]')
