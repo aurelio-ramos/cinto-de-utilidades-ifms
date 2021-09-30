@@ -31,7 +31,7 @@ async function setObservacao(editarApenasVazias = true, observacao = `Trabalho r
     async function preencheObservacao(link) {        
         let existeObservacao = link.parentNode.querySelector('.comments>li');   
         //SE o td Não tem uma observação(comment):
-        if(!editarApenasVazias || (editarApenasVazias && !existeObservacao == null)){
+        if(!editarApenasVazias || (editarApenasVazias && existeObservacao == null)){
             let url = link.href.replace('?_popup=1', '');
             await fetchObservacao(url, observacao);
         }
